@@ -1,3 +1,3 @@
 # Mi proyecto Machine Learning End-to-End
 ##Proyecto de Clase Tecnologias de Big Data
-autor: Fabian Mauricio López
+autor: Fabian Mauricio López Guasca
